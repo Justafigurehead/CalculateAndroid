@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CalculatorDroid</string>
+    <string name="EnterNumber">Enter a number</string>
+    <string name="ButtonName">Calculate!</string>
+</resources>
